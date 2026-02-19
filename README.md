@@ -1,7 +1,9 @@
 # Data Analysis 
-resources:\n
+resources:-
+
 1)https://cognitiveclass.ai/courses/data-analysis-python
 
-practice projects(guided):
+guided practice projects:-
+
 1)telecom customer churn analysis
 ->https://youtu.be/a2BDULHeb_8?si=IcDCzUuz0PUXpBIp
