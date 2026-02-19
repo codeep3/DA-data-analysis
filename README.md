@@ -1,5 +1,5 @@
 # Data Analysis 
-resources:
+resources:\n
 1)https://cognitiveclass.ai/courses/data-analysis-python
 
 practice projects(guided):
